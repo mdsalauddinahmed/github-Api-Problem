@@ -1,0 +1,21 @@
+.user_info{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    box-shadow:  4px  4px solid blue;
+}
+.card_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.card_img2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
